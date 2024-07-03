@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 247, 242);
+    font-family: 'Poppins', sans-serif;
+}
+/* blank input error message */
+#blank-input{
+    display: none;
+}
+/* no phone found error message */
+#input-error{
+    display: none;
+}
+/* spinner */
+#spinner{
+    display: none;
+}
